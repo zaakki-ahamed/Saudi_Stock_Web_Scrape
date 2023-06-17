@@ -1,0 +1,196 @@
+https://www.tadawul.com.sa/wps/portal/tadawul/markets/equities/indices/today/!ut/p/z1/rZJBT8IwFMc_i4cepW8wQb01JsyaSUJkMHtZStdITdcubWH47R3Ei4kWDfTy0rzfr8n_9WGGS8wM36k3HpQ1XPf3VzauhsOH2-QuhRzySQJknAGdP6ejbAp4FQMgSzD7l5_R2QTInDwup8tF74_O8yH9mw-_HAKnfRZFZkkcOI7oO_DDDKLAIeQRiKR4OpWj_-hNCO09AgRd1w3UuhkI2yDYN9p4BK2zNYKaBx4-WolAWBOkCQic9HbrhLwWVmspDnvjMQt8TU0t97j8Kpd9Xmy4C1XgXlVi61xPVr5vWofLBXmhuG2KoihB0fcbvcvJ1ScB2Jx-/p0/IZ7_NHLCH082KGN530A68FC4AN2O63=CZ6_22C81940L0L710A6G0IQM43GF0=MEtabIndex!ListedCompanies=chart_tasi_current_sector!TASI==/?
+
+Constituents Option
+-------------------
+
+Selector - #layoutContainers > div > div.row > div.col-xs-14.col-md-11.col-lg-9 > div > div > div > div > div.component-container.wpthemeCol.wpthemeSecondaryContainer.ibmDndColumn.id-Z7_NHLCH082KGN530A68FC4AN2OS7 > div.component-control.id-Z7_NHLCH082KGN530A68FC4AN2OE0
+
+JS Path - document.querySelector("#layoutContainers > div > div.row > div.col-xs-14.col-md-11.col-lg-9 > div > div > div > div > div.component-container.wpthemeCol.wpthemeSecondaryContainer.ibmDndColumn.id-Z7_NHLCH082KGN530A68FC4AN2OS7 > div.component-control.id-Z7_NHLCH082KGN530A68FC4AN2OE0")
+
+X-Path - //*[@id="layoutContainers"]/div/div[3]/div[2]/div/div/div/div/div[2]/div[4]
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div/div[2]/div[4]
+
+Entire Table
+------------
+
+Selector - #table5 > tbody
+
+JS Path - document.querySelector("#table5 > tbody")
+
+X-Path - //*[@id="table5"]/tbody
+
+Full X-Path -/html/body/section/div/div/div[3]/div[2]/div/div/div/div/div[2]/div[4]/section/div[3]/div[2]/table/tbody
+
+
+Row
+----
+
+Selector - #table5 > tbody > tr:nth-child(1)
+
+JS Path - document.querySelector("#table5 > tbody > tr:nth-child(1)")
+
+X-Path - //*[@id="table5"]/tbody/tr[1]
+//*[@id="table5"]/tbody/tr[13]
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div/div[2]/div[4]/section/div[3]/div[2]/table/tbody/tr[1]
+
+Row(Comany Nmae)
+----------------
+
+Selector - #table5 > tbody > tr:nth-child(1) > td:nth-child(2) > a
+
+
+No. of Pages Drop Down
+----------------------
+
+Selector - #table5_paginate > select
+
+JS Path - document.querySelector("#table5_paginate > select")
+
+X-Path - //*[@id="table5_paginate"]/select
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div/div[2]/div[4]/section/div[3]/div[2]/div/div/select
+
+
+Next Page Button
+----------------
+Selector -#pageing_next
+
+JS Path - document.querySelector("#pageing_next")
+
+X-Path - //*[@id="pageing_next"]
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div/div[2]/div[4]/section/div[3]/div[2]/div/div/a[2]
+
+
+Individual Index - Trading Name (Symbol)
+----------------------------------------
+
+Selector - #index_head > div > p:nth-child(2) > strong
+
+JS Path - document.querySelector("#index_head > div > p:nth-child(2) > strong")
+
+X-Path - //*[@id="index_head"]/div/p[1]/strong
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[1]/div/section/div[3]/div/p[1]/strong
+
+
+Individual Index - Sector
+-------------------------
+
+Selector - #index_head > div > p:nth-child(3) > strong
+
+JS Path - document.querySelector("#index_head > div > p:nth-child(3) > strong")
+
+X-Path - //*[@id="index_head"]/div/p[2]/strong
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[1]/div/section/div[3]/div/p[2]/strong
+
+
+Individual Index - Industry Group
+---------------------------------
+
+Selector - #index_head > div > p:nth-child(3) > a
+
+JS Path - document.querySelector("#index_head > div > p:nth-child(3) > a")
+
+X-Path - //*[@id="index_head"]/div/p[2]/a
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[1]/div/section/div[3]/div/p[2]/a
+
+
+Individual Index - Price
+------------------------
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[1]/div[1]/dl/dd/text()
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[1]/div[1]/dl/dd/text()
+
+
+Individual Index - Change (Value+Percentage)
+--------------------------------------------
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[1]/div[2]/dl/dd/text()
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[1]/div[2]/dl/dd/text()
+
+
+Individual Index - Previous Close 
+---------------------------------
+
+Selector - #chart_tab1 > div:nth-child(1) > div:nth-child(2) > div.col-xs-14.col-sm-2.col-md-3.col-lg-3 > dl > dd
+
+JS Path - document.querySelector("#chart_tab1 > div:nth-child(1) > div:nth-child(2) > div.col-xs-14.col-sm-2.col-md-3.col-lg-3 > dl > dd")
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[2]/div[1]/dl/dd
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[2]/div[1]/dl/dd
+
+
+Individual Index - Open
+-----------------------
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[2]/div[2]/dl/dd/text()
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[2]/div[2]/dl/dd/text()
+
+
+Individual Index - High
+-----------------------
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[2]/div[3]/dl/dd/text()
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[2]/div[3]/dl/dd/text()
+
+
+Individual Index - Low
+----------------------
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[2]/div[4]/dl/dd/text()
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[2]/div[4]/dl/dd/text()
+
+
+Individual Index - No. of Trades
+--------------------------------
+
+Selector - #chart_tab1 > div:nth-child(1) > div:nth-child(3) > div.col-xs-14.col-sm-2.col-md-3.col-lg-3 > dl > dd
+
+JS Path - document.querySelector("#chart_tab1 > div:nth-child(1) > div:nth-child(3) > div.col-xs-14.col-sm-2.col-md-3.col-lg-3 > dl > dd")
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[3]/div[1]/dl/dd
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[3]/div[1]/dl/dd
+
+
+Individual Index - Average Trade Size
+-------------------------------------
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[3]/div[2]/dl/dd/text()
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[3]/div[2]/dl/dd/text()
+
+
+Individual Index - Volume Traded
+--------------------------------
+
+Selector - #chart_tab1 > div:nth-child(1) > div:nth-child(3) > div:nth-child(3) > dl > dd
+
+JS Path - document.querySelector("#chart_tab1 > div:nth-child(1) > div:nth-child(3) > div:nth-child(3) > dl > dd")
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[3]/div[3]/dl/dd
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[3]/div[3]/dl/dd
+
+
+Individual Index - Value Traded (SAR)
+-------------------------------------
+
+Selector - #chart_tab1 > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > dl > dd
+
+JS Path - document.querySelector("#chart_tab1 > div:nth-child(1) > div:nth-child(3) > div:nth-child(4) > dl > dd")
+
+X-Path - //*[@id="chart_tab1"]/div[1]/div[3]/div[4]/dl/dd
+
+Full X-Path - /html/body/section/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/section/div[3]/div[1]/div[3]/div[4]/dl/dd

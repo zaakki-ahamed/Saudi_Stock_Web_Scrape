@@ -1,0 +1,452 @@
+Total pages :  13
+
+Current page row count :  15
+Currently on page :  1
+
+Currently on Company Number :  1
+Riyad Bank
+
+Currently on Company Number :  2
+Bank Aljazira
+
+Currently on Company Number :  3
+Saudi Investment Bank
+
+Currently on Company Number :  4
+Banque Saudi Fransi
+
+Currently on Company Number :  5
+Saudi British Bank
+
+Currently on Company Number :  6
+Arab National Bank
+
+Currently on Company Number :  7
+Samba Financial Group
+
+Currently on Company Number :  8
+Al Rajhi Bank
+
+Currently on Company Number :  9
+Bank Albilad
+
+Currently on Company Number :  10
+Alinma Bank
+
+Currently on Company Number :  11
+National Commercial Bank
+
+Currently on Company Number :  12
+Takween Advanced Industries Co.
+
+Currently on Company Number :  13
+Middle East Paper Co.
+
+Currently on Company Number :  14
+Basic Chemical Industries Co.
+
+Currently on Company Number :  15
+Saudi Arabian Mining Co.
+
+Current page row count :  15
+Currently on page :  2
+
+Currently on Company Number :  1
+Astra Industrial Group
+
+Currently on Company Number :  2
+Al Sorayai Trading and Industrial Group
+
+Currently on Company Number :  3
+Al Hassan Ghazi Ibrahim Shaker Co.
+
+Currently on Company Number :  4
+United Wire Factories Co.
+
+Currently on Company Number :  5
+Bawan Co.
+
+Currently on Company Number :  6
+Electrical Industries Co.
+
+Currently on Company Number :  7
+Al Yamamah Steel Industries Co.
+
+Currently on Company Number :  8
+Saudi Steel Pipe Co.
+
+Currently on Company Number :  9
+Abdullah A. M. Al-Khodari Sons Co.
+
+Currently on Company Number :  10
+Seera Group Holding
+
+Currently on Company Number :  11
+Abdulmohsen Alhokair Group for Tourism and Development
+
+Currently on Company Number :  12
+Leejam Sports Co.
+
+Currently on Company Number :  13
+Maharah Human Resources Co.
+
+Currently on Company Number :  14
+Methanol Chemicals Co.
+
+Currently on Company Number :  15
+National Petrochemical Co.
+
+Current page row count :  15
+Currently on page :  3
+
+Currently on Company Number :  1
+Saudi Basic Industries Corp.
+
+Currently on Company Number :  2
+Saudi Arabian Fertilizer Co.
+
+Currently on Company Number :  3
+Saudi Arabia Refineries Co.
+
+Currently on Company Number :  4
+Saudi Ceramic Co.
+
+Currently on Company Number :  5
+Savola Group
+
+Currently on Company Number :  6
+National Industrialization Co.
+
+Currently on Company Number :  7
+Saudi Pharmaceutical Industries and Medical Appliances Corp.
+
+Currently on Company Number :  8
+National Gas and Industrialization Co.
+
+Currently on Company Number :  9
+National Gypsum Co.
+
+Currently on Company Number :  10
+Wafrah for Industry and Development Co.
+
+Currently on Company Number :  11
+Saudi Cable Co.
+
+Currently on Company Number :  12
+Saudi Advanced Industries Co.
+
+Currently on Company Number :  13
+Saudi Industrial Development Co.
+
+Currently on Company Number :  14
+Al-Ahsa Development Co.
+
+Currently on Company Number :  15
+The National Company for Glass Industries
+
+Current page row count :  15
+Currently on page :  4
+
+Currently on Company Number :  1
+Saudi Arabian Amiantit Co.
+
+Currently on Company Number :  2
+Alujain Corp.
+
+Currently on Company Number :  3
+Filing and Packing Materials Manufacturing Co.
+
+Currently on Company Number :  4
+Saudi Industrial Services Co.
+
+Currently on Company Number :  5
+Arabian Pipes Co.
+
+Currently on Company Number :  6
+Nama Chemicals Co.
+
+Currently on Company Number :  7
+National Metal Manufacturing and Casting Co.
+
+Currently on Company Number :  8
+Saudi Chemical Co.
+
+Currently on Company Number :  9
+Zamil Industrial Investment Co.
+
+Currently on Company Number :  10
+Saudi Industrial Investment Group
+
+Currently on Company Number :  11
+Saudia Dairy and Foodstuff Co.
+
+Currently on Company Number :  12
+Almarai Co.
+
+Currently on Company Number :  13
+Yanbu National Petrochemical Co.
+
+Currently on Company Number :  14
+Saudi Paper Manufacturing Co.
+
+Currently on Company Number :  15
+Sahara International Petrochemical Co.
+
+Current page row count :  15
+Currently on page :  5
+
+Currently on Company Number :  1
+Al-Babtain Power and Telecommunication Co.
+
+Currently on Company Number :  2
+Advanced Petrochemical Co.
+
+Currently on Company Number :  3
+Al Abdullatif Industrial Investment Co.
+
+Currently on Company Number :  4
+Saudi Kayan Petrochemical Co.
+
+Currently on Company Number :  5
+Saudi Vitrified Clay Pipes Co.
+
+Currently on Company Number :  6
+Middle East Specialized Cables Co.
+
+Currently on Company Number :  7
+Rabigh Refining and Petrochemical Co.
+
+Currently on Company Number :  8
+Hail Cement Co.
+
+Currently on Company Number :  9
+Najran Cement Co.
+
+Currently on Company Number :  10
+City Cement Co.
+
+Currently on Company Number :  11
+Northern Region Cement Co.
+
+Currently on Company Number :  12
+Umm Al-Qura Cement Co.
+
+Currently on Company Number :  13
+Zahrat Al Waha for Trading Co.
+
+Currently on Company Number :  14
+Al Kathiri Holding Co.
+
+Currently on Company Number :  15
+Arabian Cement Co.
+
+Current page row count :  15
+Currently on page :  6
+
+Currently on Company Number :  1
+Yamama Cement Co.
+
+Currently on Company Number :  2
+Saudi Cement Co.
+
+Currently on Company Number :  3
+Qassim Cement Co.
+
+Currently on Company Number :  4
+Southern Province Cement Co.
+
+Currently on Company Number :  5
+Yanbu Cement Co.
+
+Currently on Company Number :  6
+Eastern Province Cement Co.
+
+Currently on Company Number :  7
+Tabuk Cement Co.
+
+Currently on Company Number :  8
+Al Jouf Cement Co.
+
+Currently on Company Number :  9
+Abdullah Al Othaim Markets Co.
+
+Currently on Company Number :  10
+Mouwasat Medical Services Co.
+
+Currently on Company Number :  11
+United Electronics Co.
+
+Currently on Company Number :  12
+Dallah Healthcare Co.
+
+Currently on Company Number :  13
+National Medical Care Co.
+
+Currently on Company Number :  14
+Saudi Marketing Co.
+
+Currently on Company Number :  15
+Al Hammadi Company for Development and Investment
+
+Current page row count :  15
+Currently on page :  7
+
+Currently on Company Number :  1
+Saudi Company for Hardware
+
+Currently on Company Number :  2
+Middle East Healthcare Co.
+
+Currently on Company Number :  3
+Dur Hospitality Co.
+
+Currently on Company Number :  4
+Lazurde Company for Jewelry
+
+Currently on Company Number :  5
+Saudi Real Estate Co.
+
+Currently on Company Number :  6
+National Shipping Company of Saudi Arabia
+
+Currently on Company Number :  7
+Saudi Ground Services Co.
+
+Currently on Company Number :  8
+Saudi Public Transport Co.
+
+Currently on Company Number :  9
+Saudi Automotive Services Co.
+
+Currently on Company Number :  10
+Anaam International Holding Group
+
+Currently on Company Number :  11
+Tihama Advertising and Public Relations Co.
+
+Currently on Company Number :  12
+Aseer Trading, Tourism and Manufacturing Co.
+
+Currently on Company Number :  13
+Taiba Investments Co.
+
+Currently on Company Number :  14
+Makkah Construction and Development Co.
+
+Currently on Company Number :  15
+Batic Investments and Logistics Co.
+
+Current page row count :  15
+Currently on page :  8
+
+Currently on Company Number :  1
+Al-Baha Investment and Development Co.
+
+Currently on Company Number :  2
+Saudi Industrial Export Co.
+
+Currently on Company Number :  3
+Arriyadh Development Co.
+
+Currently on Company Number :  4
+National Agricultural Marketing Co.
+
+Currently on Company Number :  5
+Tourism Enterprise Co.
+
+Currently on Company Number :  6
+Fitaihi Holding Group
+
+Currently on Company Number :  7
+Jarir Marketing Co.
+
+Currently on Company Number :  8
+Aldrees Petroleum and Transport Services Co.
+
+Currently on Company Number :  9
+Saudi Research and Marketing Group
+
+Currently on Company Number :  10
+Emaar The Economic City
+
+Currently on Company Number :  11
+Red Sea International Co.
+
+Currently on Company Number :  12
+Fawaz Abdulaziz Alhokair Co.
+
+Currently on Company Number :  13
+Jabal Omar Development Co.
+
+Currently on Company Number :  14
+United International Transportation Co.
+
+Currently on Company Number :  15
+Saudi Printing and Packaging Co.
+
+Current page row count :  15
+Currently on page :  9
+
+Currently on Company Number :  1
+Kingdom Holding Co.
+
+Currently on Company Number :  2
+Alkhaleej Training and Education Co.
+
+Currently on Company Number :  3
+National Company for Learning and Education
+
+Currently on Company Number :  4
+Ataa Educational Co.
+
+Currently on Company Number :  5
+Dar Alarkan Real Estate Development Co.
+
+Currently on Company Number :  6
+Knowledge Economic City
+
+Currently on Company Number :  7
+Alandalus Property Co.
+
+Currently on Company Number :  8
+Arabian Centres Co.
+
+Currently on Company Number :  9
+Riyad REIT Fund
+
+Currently on Company Number :  10
+AlJazira Mawten REIT Fund
+
+Currently on Company Number :  11
+Jadwa REIT Al Haramain Fund
+
+Currently on Company Number :  12
+Taleem REIT Fund
+
+Currently on Company Number :  13
+AL Maather REIT Fund
+
+Currently on Company Number :  14
+Musharaka REIT Fund
+
+Currently on Company Number :  15
+Mulkia Gulf Real Estate REIT
+
+Current page row count :  15
+Currently on page :  10
+
+Currently on Company Number :  1
+Al Mashaar REIT
+
+Currently on Company Number :  2
+AlAhli REIT Fund 1
+
+Currently on Company Number :  3
+Derayah REIT Fund
+
+Currently on Company Number :  4
+Al Rajhi REIT Fund
+
+Currently on Company Number :  5
+Jadwa REIT Saudi Fund
+

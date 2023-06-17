@@ -1,0 +1,47 @@
+Total pages :  14
+
+Current page row count :  15
+Currently on page :  1
+
+Currently on Company Number :  1
+Riyad Bank
+
+Currently on Company Number :  2
+Bank Aljazira
+
+Currently on Company Number :  3
+Saudi Investment Bank
+
+Currently on Company Number :  4
+Banque Saudi Fransi
+
+Currently on Company Number :  5
+Saudi British Bank
+
+Currently on Company Number :  6
+Arab National Bank
+
+Currently on Company Number :  7
+Samba Financial Group
+
+Currently on Company Number :  8
+Al Rajhi Bank
+
+Currently on Company Number :  9
+Bank Albilad
+
+Currently on Company Number :  10
+Alinma Bank
+
+Currently on Company Number :  11
+National Commercial Bank
+
+Currently on Company Number :  12
+Takween Advanced Industries Co.
+
+Currently on Company Number :  13
+Middle East Paper Co.
+
+Currently on Company Number :  14
+Basic Chemical Industries Co.
+
